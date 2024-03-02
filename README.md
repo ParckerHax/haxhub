@@ -1,2 +1,2 @@
-# haxhub
+# haxer hub
 yes
